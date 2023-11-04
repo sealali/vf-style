@@ -3,6 +3,7 @@
 }
 ::-webkit-scrollbar{
   max-width: 5px;
+  margin-right: 7px;
 }
 ::-webkit-scrollbar-track{
   background: transparent;
