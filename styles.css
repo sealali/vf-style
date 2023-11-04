@@ -1,17 +1,16 @@
+:root{
+  --primary: #f47d38;
+}
 ::-webkit-scrollbar{
   width: 20px;
 }
 ::-webkit-scrollbar-track{
-  background: transparent;
+  background: red;
 }
 ::-webkit-scrollbar-thumb{
   background: white;
   border-radius: 10px;
 }
-:root{
-  --primary: #f47d38;
-}
-
 .vfrc-header, .c-iCDrnV{
   background-color: black;
   color: white;
