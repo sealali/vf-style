@@ -1,5 +1,8 @@
 .vfrc-header{
   background-color: black;
-  border-radius: 20px;
+  color:
   margin: 5px;
+}
+.vfrc-chat--dialog{
+  background-color: red;
 }
