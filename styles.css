@@ -1,11 +1,22 @@
+::webkit-scrollbar{
+  width: 20px;
+}
+::webkit-scrollbar-track{
+  background-color: transparent;
+}
+::webkit-scrollbar-thumb{
+  background-color: white;
+  border-radius: 10px;
+}
 :root{
   --primary: #f47d38;
 }
 
-.vfrc-header{
+.vfrc-header, .c-iCDrnV{
   background-color: black;
-  color:
-  margin: 5px;
+  color: white;
+  margin: 7px;
+  border-radius: 8px;
 }
 .c-ealvbK, .vfrc-chat{
   background-color: var(--primary) !important;
