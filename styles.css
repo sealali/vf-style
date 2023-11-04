@@ -10,6 +10,7 @@
 ::-webkit-scrollbar-thumb{
   background: white;
   border-radius: 10px;
+  width: 5px;
 }
 .vfrc-header, .c-iCDrnV{
   background-color: black;
