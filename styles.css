@@ -1,8 +1,12 @@
+:root{
+  --primary: #f47d38;
+}
+
 .vfrc-header{
   background-color: black;
   color:
   margin: 5px;
 }
 .c-ealvbK{
-  background-color: red !important;
+  background-color: var(--primary) !important;
 }
