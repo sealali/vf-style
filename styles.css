@@ -22,3 +22,7 @@
 .vfrc-chat-input{
   filter: drop-shadow(0px 0px 25px black);
 }
+.vfrc-footer, .c-kbCYVp, .c-kbCYVp-lbvmyx-withWatermark-true{
+  padding-top: 0;
+  height: 80px;
+}
