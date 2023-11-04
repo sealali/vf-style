@@ -2,7 +2,7 @@
   --primary: #f47d38;
 }
 ::-webkit-scrollbar{
-  width: 5px;
+  max-width: 5px;
 }
 ::-webkit-scrollbar-track{
   background: transparent;
@@ -10,7 +10,6 @@
 ::-webkit-scrollbar-thumb{
   background: white;
   border-radius: 10px;
-  width: 5px;
 }
 .vfrc-header, .c-iCDrnV{
   background-color: black;
