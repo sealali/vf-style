@@ -11,6 +11,7 @@
   background: white;
   border-radius: 10px;
   border: 3px solid transparent;
+  background-clip: content-box;
 }
 .vfrc-header, .c-iCDrnV{
   background-color: black;
