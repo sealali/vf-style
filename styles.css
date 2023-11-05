@@ -8,8 +8,9 @@
 ::-webkit-scrollbar-thumb{
   background: white;
   border-radius: 10px;
-  border: 7px solid #f47d38;
+  border: 7px solid transparent;
   width: 12px;
+  background-clip: content-box;
 }
 ::-webkit-scrollbar-track{
   background: transparent;
@@ -21,7 +22,8 @@
   border-radius: 8px;
 }
 .c-ealvbK, .vfrc-chat{
-  background: linear-gradient(310deg, #5cc093, transparent) !important;
+  background: linear-gradient(310deg, #053ca2, transparent) !important;
+  backdrop-filter: blur(6px);
 }
 .vfrc-chat-input{
   filter: drop-shadow(0px 0px 25px black);
