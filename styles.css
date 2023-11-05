@@ -15,11 +15,16 @@
 ::-webkit-scrollbar-track{
   background: transparent;
 }
-.vfrc-header, .c-iCDrnV{
+    
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800&family=Inter:wght@500;600&display=swap');
+
+.vfrc-header, .c-iCDrnV, .c-kfyIxT{
   background-color: black;
-  color: white;
+  color: white !important;
   margin: 7px;
   border-radius: 8px;
+  font-family: 'Inter Tight', sans-serif;
+  font-weight: 400;
 }
 .c-ealvbK, .vfrc-chat{
   background: linear-gradient(310deg, #053ca2, transparent) !important;
