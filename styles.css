@@ -25,14 +25,13 @@
   font-weight: 500;
   padding-top: 3px;
   box-shadow: 0px 2px 15px 5px #000000c9;
+  background: transparent;
 }
 .vfrc-header{
-  background: transparent;
-  backdrop-filter: blur(6px);
-    
+  backdrop-filter: blur(6px); 
 }
 .c-ealvbK, .vfrc-chat{
-  background: linear-gradient(310deg, #053ca2, transparent) !important;
+  background: rgba(0, 0, 0, 0.4) !important;
   backdrop-filter: blur(6px);
   box-shadow: inset 0 0 0px 1.5px #ffffff6b;
   border-radius: 10px;
