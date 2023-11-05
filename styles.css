@@ -58,7 +58,8 @@
 .c-PJLV-bOsang-from-user{
   background-color: #0000008f;
   border: 1px solid #ffffff40;
-  font-family: monospace;
+  font-family: 'Poppins';
+  font-size: 14px;
 }
 
 /* Bot Description and Title */
