@@ -1,4 +1,4 @@
-:root{
+    :root{
   --primary: #f47d38;
 }
 ::-webkit-scrollbar{
@@ -19,16 +19,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800&family=Inter:wght@500;600&display=swap');
 
 .vfrc-header, .c-iCDrnV, .c-kfyIxT{
-  background-color: black;
   color: white !important;
   margin: 7px;
   border-radius: 8px;
-  font-family: 'Inter Tight', sans-serif;
-  font-weight: 400;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+}
+.vfrc-header{
+background: linear-gradient(150deg, rgba(255,255,255,0.2), transparent) !important;
+  backdrop-filter: blur(6px);
 }
 .c-ealvbK, .vfrc-chat{
   background: linear-gradient(310deg, #053ca2, transparent) !important;
   backdrop-filter: blur(6px);
+  box-shadow: 0 0 5px 5px black;
 }
 .vfrc-chat-input{
   filter: drop-shadow(0px 0px 25px black);
