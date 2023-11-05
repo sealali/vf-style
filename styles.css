@@ -46,3 +46,63 @@
 .vfrc-footer--watermark, .c-cejRVw, aside{
   display: none;
 }
+
+.c-PJLV-jueArD-from-system{
+  font-family: 'Poppins';
+  font-size: 14px;
+  background: #2c565f94;
+  border: 1px solid #ffffff26;
+  color: white;
+}
+.c-PJLV-bOsang-from-user{
+  background-color: #0000008f;
+  border: 1px solid #ffffff40;
+  font-family: monospace;
+}
+
+/* Bot Description and Title */
+.c-eLmjZC{
+  color: #dbdbdb;
+  font-family: monospace;
+}
+.c-cXYoYW{
+  font-family: 'Poppins';
+  color: white;
+}
+
+/* Mini Avatars */
+c-kIbiaN-iiTsXc-size-small{
+  display: none;
+}
+
+.c-eAEsei, .c-bbTBUn{
+  font-family: monospace;
+  color: #dbdbdb;
+}
+
+/* Send Button */
+.c-tbgzS{
+  background-color: #388a71;
+}
+.c-tbgzS:hover{
+  background-color: #388a71;
+}
+
+.c-gNTwhD{
+  padding-left: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
