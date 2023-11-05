@@ -26,3 +26,6 @@
   padding-top: 0;
   height: 80px;
 }
+.vfrc-footer--watermark{
+  display: none;
+}
