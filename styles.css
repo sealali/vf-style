@@ -3,12 +3,16 @@
 }
 ::-webkit-scrollbar{
   width: 19px;
+  background: transparent;
 }
 ::-webkit-scrollbar-thumb{
   background: white;
   border-radius: 10px;
   border: 7px solid #f47d38;
   width: 12px;
+}
+::-webkit-scrollbar-track{
+  background: transparent;
 }
 .vfrc-header, .c-iCDrnV{
   background-color: black;
@@ -17,7 +21,7 @@
   border-radius: 8px;
 }
 .c-ealvbK, .vfrc-chat{
-  background-color: var(--primary) !important;
+  background: linear-gradient(310deg, #5cc093, transparent) !important;
 }
 .vfrc-chat-input{
   filter: drop-shadow(0px 0px 25px black);
