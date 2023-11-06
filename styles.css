@@ -2,7 +2,7 @@
   --primary: #f47d38;
 }
 ::-webkit-scrollbar{
-  width: 19px;
+  width: 17px;
   background: transparent;
 }
 ::-webkit-scrollbar-thumb{
