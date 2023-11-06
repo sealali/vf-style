@@ -27,9 +27,7 @@
   background: transparent;
   z-index: 100;
 }
-.vfrc-header{
-  backdrop-filter: blur(6px); 
-}
+
 .c-ealvbK, .vfrc-chat{
   background-color: rgba(0, 0, 0, 0.4) !important;
   backdrop-filter: blur(6px);
@@ -92,7 +90,9 @@ c-kIbiaN-iiTsXc-size-small{
 .c-gNTwhD{
   padding-left: 14px;
 }
-
+.c-ivtLaR-gAaWLG-withChat-true > .c-fikloo{
+  box-shadow: 0 0 84px 4px #000000db;
+}
 
 
 
